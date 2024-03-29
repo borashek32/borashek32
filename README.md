@@ -1,12 +1,13 @@
-## <div id="header" align="center"><img src="assets/img/img.jpg" width="100"/></div>
+## <div id="header" align="center"><img src="assets/img/header.jpg" width="100"/></div>
 
 ## <p style="font-size: 12px; font-weight: 500">My name is Baranova Nataly. I'm a front-end developer looking for the opportunities to grow professionally. Having 2-year background in back-end and full-stack development I have a deep understanding of all the software development processes and how Agile projects are run.</p>
 
 ## <p style='font-size: 16px'>Languages and tools</p>
-[![ReactJs]](https://react.dev/)
+[![ReactJs](https://img.shields.io/badge/ReactJs-0a1929?style=for-the-badge&logo=react&logoColor=76ecfa>)](https://react.dev/)
 [![ReactNative](https://img.shields.io/badge/ReactNative-0a1929?style=for-the-badge&logo=react&logoColor=76ecfa>)](https://reactnative.dev/)
 [![NextJS](https://img.shields.io/badge/NextJs-0a1929?style=for-the-badge&logo=react&logoColor=76ecfa>)](https://nextjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-0a1929?style=for-the-badge&logo=redux&logoColor=9b1a7a>)](https://redux.js.org/)
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
 [![TypeScript](https://img.shields.io/badge/Typescript-0a1929?style=for-the-badge&logo=typescript&logoColor=9b1a7a>)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/Javascript-0a1929?style=for-the-badge&logo=javascript&logoColor=9b1a7a>)](https://www.javascript.com/)
