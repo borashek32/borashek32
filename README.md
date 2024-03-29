@@ -5,7 +5,7 @@
 ## <p style='font-size: 16px'>Languages and tools</p>
 [![ReactJs](https://img.shields.io/badge/ReactJs-0a1929?style=for-the-badge&logo=react&logoColor=76ecfa>)](https://react.dev/)
 [![ReactNative](https://img.shields.io/badge/ReactNative-0a1929?style=for-the-badge&logo=react&logoColor=76ecfa>)](https://reactnative.dev/)
-[![NextJS](https://img.shields.io/badge/ReactNative-0a1929?style=for-the-badge&logo=react&logoColor=76ecfa>)](https://nextjs.org/)
+[![NextJS](https://img.shields.io/badge/Next Js-0a1929?style=for-the-badge&logo=react&logoColor=76ecfa>)](https://nextjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-0a1929?style=for-the-badge&logo=redux&logoColor=9b1a7a>)](https://redux.js.org/)
 
 [![TypeScript](https://img.shields.io/badge/Typescript-0a1929?style=for-the-badge&logo=typescript&logoColor=9b1a7a>)](https://www.typescriptlang.org/)
