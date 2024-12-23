@@ -44,7 +44,7 @@
 [![freecodecamp](https://img.shields.io/badge/freecodecamp-0a1929?style=for-the-badge&logo=freecodecamp&logoColor=9b1a7a>)](https://www.freecodecamp.org/fccba5044a8-8a7a-4ad2-89f4-a1656ea7e893)
 [![telegram](https://img.shields.io/badge/telegram-0a1929?style=for-the-badge&logo=telegram&logoColor=9b1a7a>)](https://t.me/HuskyJack)
 [![whatsapp](https://img.shields.io/badge/whatsapp-0a1929?style=for-the-badge&logo=whatsapp&logoColor=9b1a7a>)](https://t.me/+79169174630)
-[![headhunters](<p>HeadHunters</p>)](https://hh.ru/resume/216762bfff0b0c54410039ed1f654766425662)
+[![headhunters](https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png)](https://hh.ru/resume/216762bfff0b0c54410039ed1f654766425662)
 
 ## <p style='font-size: 16px'>My react portfolio</p>
 [![portfolio](https://img.shields.io/badge/portfolio-0a1929?style=for-the-badge&logo=portfo&logoColor=9b1a7a>)](https://borashek32.github.io/portfolio/)
