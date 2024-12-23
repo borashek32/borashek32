@@ -1,6 +1,6 @@
 ## <p style="font-size: 12px; font-weight: 400">My name is Baranova Nataly. I'm a front-end developer looking for the opportunities to grow professionally. Having 2-year background in back-end and full-stack development I have a deep understanding of all the software development processes and how Agile projects are run.</p>
 
-## <p style='font-size: 16px'>Languages and tools</p>
+## <p style='font-size: 16px'>Skils</p>
 <div style="display: flex; margin-bottom: 20;">
   <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -76,12 +76,12 @@
   </a>
 </div>
 
-## <p style='font-size: 16px'>Follow me</p>
+##
 <a style="text-decoration: none;" href="https://www.codewars.com/users/borashek32">
   <img src="https://img.shields.io/badge/codewars-0a1929?style=for-the-badge&logo=Codewars&logoColor=9b1a7a" alt="codewars" width="130" height="30">
 </a>
 <a style="text-decoration: none;" href="https://www.freecodecamp.org/fccba5044a8-8a7a-4ad2-89f4-a1656ea7e893">
-  <img src="https://img.shields.io/badge/freecodecamp-0a1929?style=for-the-badge&logo=freecodecamp&logoColor=9b1a7a" alt="freecodecamp" width="310" height="30">
+  <img src="https://img.shields.io/badge/freecodecamp-0a1929?style=for-the-badge&logo=freecodecamp&logoColor=9b1a7a" alt="freecodecamp" width="130" height="30">
 </a>
 <a style="text-decoration: none;" href="https://t.me/HuskyJack">
   <img src="https://img.shields.io/badge/telegram-0a1929?style=for-the-badge&logo=telegram&logoColor=9b1a7a" alt="telegram" width="130" height="30">
@@ -93,5 +93,5 @@
   <p style='font-size: 16px'>HeadHunter Resume</p>
 </a>
 
-## <p style='font-size: 16px'>My react portfolio</p>
+##
 [![portfolio](https://img.shields.io/badge/portfolio-0a1929?style=for-the-badge&logo=portfo&logoColor=9b1a7a>)](https://borashek32.github.io/portfolio/)
