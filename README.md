@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/codewars-0a1929?style=for-the-badge&logo=Codewars&logoColor=9b1a7a" alt="codewars" width="130" height="30">
 </a>
 <a style="text-decoration: none;" href="https://www.freecodecamp.org/fccba5044a8-8a7a-4ad2-89f4-a1656ea7e893">
-  <img src="https://img.shields.io/badge/freecodecamp-0a1929?style=for-the-badge&logo=freecodecamp&logoColor=9b1a7a" alt="freecodecamp" width="30" height="30">
+  <img src="https://img.shields.io/badge/freecodecamp-0a1929?style=for-the-badge&logo=freecodecamp&logoColor=9b1a7a" alt="freecodecamp" width="310" height="30">
 </a>
 <a style="text-decoration: none;" href="https://t.me/HuskyJack">
   <img src="https://img.shields.io/badge/telegram-0a1929?style=for-the-badge&logo=telegram&logoColor=9b1a7a" alt="telegram" width="130" height="30">
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/whatsapp-0a1929?style=for-the-badge&logo=whatsapp&logoColor=9b1a7a" alt="whatsapp" width="130" height="30">
 </a>
 <a style="text-decoration: none;" href="https://hh.ru/resume/216762bfff0b0c54410039ed1f654766425662">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" alt="headhunters" width="30" height="30">
+  <p style='font-size: 16px'>HeadHunter Resume</p>
 </a>
 
 ## <p style='font-size: 16px'>My react portfolio</p>
