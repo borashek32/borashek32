@@ -1,7 +1,7 @@
 ## <p style="font-size: 12px; font-weight: 400">My name is Baranova Nataly. I'm a front-end developer looking for the opportunities to grow professionally. Having 2-year background in back-end and full-stack development I have a deep understanding of all the software development processes and how Agile projects are run.</p>
 
 ## <p style='font-size: 16px'>Skils</p>
-<div style="display: flex;">
+<div style="display: flex; gap: 20">
   <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; gap: 20">
   <a style="text-decoration: none;" href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   </a>
@@ -28,13 +28,13 @@
   </a>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; gap: 20">
   <a style="text-decoration: none;" href="https://redux.js.org/">
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   </a>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; gap: 20">
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
@@ -46,7 +46,7 @@
   </a>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; gap: 20">
   <a style="text-decoration: none;" href="https://getbootstrap.com/">
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
@@ -57,7 +57,7 @@
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </a>
 </div>
-<div style="display: flex;">
+<div style="display: flex; gap: 20">
   <a style="text-decoration: none;" href="https://swagger.io/">
     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
   </a>
@@ -65,12 +65,12 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   </a>
 </div>
-<div style="display: flex;">
+<div style="display: flex; gap: 20">
   <a style="text-decoration: none;" href="https://www.docker.com/">
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
 </div>
-<div style="display: flex;">
+<div style="display: flex; gap: 20">
   <a style="text-decoration: none;" href="https://www.atlassian.com/software/jira">
     <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   </a>
