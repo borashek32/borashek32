@@ -29,9 +29,9 @@
 </div>
 <br/>
 <div id="badges" style="display: flex;">
-    <a href="https://redux.js.org/">
-        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-    </a>
+  <a href="https://redux.js.org/">
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  </a>
 </div>
 <br/>
 <div id="badges" style="display: flex;">
@@ -46,7 +46,7 @@
   </a>
 </div>
 <br/>
-<div id="badges" style="display: flex;">
+<div id="badges" style="display: flex; margin-bottom: 20px;">
   <a href="https://getbootstrap.com/">
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
