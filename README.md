@@ -89,8 +89,13 @@
 <a style="text-decoration: none;" href="https://t.me/+79169174630">
   <img src="https://img.shields.io/badge/whatsapp-0a1929?style=for-the-badge&logo=whatsapp&logoColor=9b1a7a" alt="whatsapp" width="130" height="30">
 </a>
+
+##
 <a style="text-decoration: none;" href="https://hh.ru/resume/216762bfff0b0c54410039ed1f654766425662">
-  <p style='font-size: 16px'>HeadHunter Resume</p>
+  <p style='font-size: 16'>HeadHunter Resume</p>
+</a>
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/nataly-baranova/">
+  <p style='font-size: 16'>LinkedIn Resume</p>
 </a>
 
 ##
